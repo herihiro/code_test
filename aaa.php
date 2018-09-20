@@ -1,7 +1,9 @@
 <?php
-public function display1() {
+if ($condition1) {
+    // ...
+} else if ($condition2) {
+    // ...
+} else {
+    // ...
 }
-
-    public function display() {
-	}
 ?>
