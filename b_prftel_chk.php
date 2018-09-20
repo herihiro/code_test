@@ -8,7 +8,7 @@ $code=cgi_get("code");
 $pass=cgi_get("pass");
 $login_flag=cgi_get("login_flag");
 
-// ‘SŠp”š‚¾‚Á‚½‚ç”¼Šp”š‚É‚·‚é 2011-04-13 ìã’Ç‰Á
+// ‘SŠp”š‚¾‚Á‚½‚ç”¼Šp”š‚É‚·‚é 2011-04-13 ìã’Ç‰Áa
 $new_tel=cgi_get("new_tel");
 $new_tel=mb_convert_kana($new_tel,n,"SJIS");;
 
