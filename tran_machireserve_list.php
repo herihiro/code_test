@@ -4,8 +4,6 @@ include_once("prog_id.php");
 include_once("mod/common.php");
 include_once("mod/tran_sche.php");
 
-aaaaaaaaaaaaaaaaaaaaaa
-
 $errorlog=basename(__FILE__,".php").".log";
 
 $main_tab=cgi_get("main_tab");
